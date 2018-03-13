@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "63551923763",
+    "firebase_url": "https://quickbuy-8746d.firebaseio.com",
+    "project_id": "quickbuy-8746d",
+    "storage_bucket": "quickbuy-8746d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63551923763:android:84e1f44100ef4119",
+        "android_client_info": {
+          "package_name": "com.example.aakash.quickbuy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63551923763-rqa7qj1s8a880oispntjnj9eu3plgv95.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aakash.quickbuy",
+            "certificate_hash": "019d7ffbd8b8cdd76c96ac1b9560a2fbd1732388"
+          }
+        },
+        {
+          "client_id": "63551923763-voh5dm2flr8l10us7if2re9cjiho1j1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoBSphH9ObRTzBL7mcfx4PMiWHae12iYc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63551923763-voh5dm2flr8l10us7if2re9cjiho1j1n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
