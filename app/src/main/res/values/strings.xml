@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">QuickBuy</string>
+    <string-array name="category">
+        <item>Car</item>
+        <item>Housing</item>
+        <item>Furniture</item>
+        <item>Electronics</item>
+        <item>Books</item>
+        <item>Food</item>
+    </string-array>
+</resources>
